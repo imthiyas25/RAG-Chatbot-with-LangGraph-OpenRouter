@@ -1,0 +1,10 @@
+openai
+python-dotenv
+langgraph
+langchain-core
+langchain-community
+langchain-text-splitters
+pandas
+scikit-learn
+kaggle
+
