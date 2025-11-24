@@ -63,7 +63,7 @@ You: <ask your question>
 
 Type `quit`, `exit`, or `q` to stop. The system always grounds responses in the retrieved dataset text. If the dataset lacks relevant content, the model replies accordingly (no hallucinations).
 
-```
+
 
 ## 6. Files of Interest
 
@@ -72,4 +72,5 @@ Type `quit`, `exit`, or `q` to stop. The system always grounds responses in the 
 - `data/` – holds the CSVs (ignored by git by default).
 
 Feel free to swap in new datasets or extend the workflow with additional nodes (e.g., summarization, tool calls, evaluation). Happy hacking!
+
 
